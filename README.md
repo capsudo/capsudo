@@ -20,4 +20,4 @@ I build calm, practical software across web, mobile, desktop, and open source sy
 
 - <a href="https://github.com/NixOS/nixpkgs"><img src="https://cdn.simpleicons.org/nixos/5277C3" alt="" width="16" height="16" /> <strong>NixOS</strong></a> ★★★☆☆
 - <a href="https://github.com/GNOME"><img src="https://cdn.simpleicons.org/gnome/4A86CF" alt="" width="16" height="16" /> <strong>GNOME</strong></a> ★★★☆☆
-- <a href="https://github.com/microsoft/vscode"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="" width="16" height="16" /> <strong>VS Code</strong></a> ★★★★☆
+- <a href="https://github.com/microsoft/vscode"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" alt="" width="16" height="16" /> <strong>VS Code</strong></a> ★★★★☆
